@@ -24,7 +24,7 @@ If we want to create a ordered list precede with number.
 3. Three
 4. Four
 5. Five
-# Seprating lines (use space)
+# Seperating lines (use space)
 This is first line in the paragraph. 
 This is second line in the paragraph.
 # Differentiating lines (use ` symbol)
